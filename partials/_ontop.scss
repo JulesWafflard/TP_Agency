@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.button-ontop {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 50px;
+    right: 30px;
+    color: #fff;
+    background-color: #0073f6;
+    text-decoration: none;
+    border: #0073f6 1px solid;
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+}
